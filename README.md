@@ -1,4 +1,5 @@
 # Smart Task Manager App
+🔗 **Live Demo:** https://smart-task-manager-app-nine.vercel.app/
 
 The Smart Task Manager is a frontend web application designed to help users manage daily tasks through a clean and responsive user interface. The application focuses on core task operations and frontend best practices.
 
